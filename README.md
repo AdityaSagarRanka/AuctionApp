@@ -1,5 +1,5 @@
 # Auction Rush
-Quick and easy auctions.
+Quick and easy auctions..
 
 ## Concept
 + First-price sealed-bid auctions
